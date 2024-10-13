@@ -1,68 +1,21 @@
-IP地址	端口	TLS	数据中心	地区	城市	网络延迟	下载速度
-8.218.184.104	443	TRUE	HKG	Asia Pacific	Hong Kong	79 ms	22590 kB/s
-132.145.94.80	443	TRUE	ICN	Asia Pacific	Seoul	65 ms	22121 kB/s
-152.67.212.141	443	TRUE	ICN	Asia Pacific	Seoul	164 ms	16000 kB/s
-129.154.59.99	443	TRUE	ICN	Asia Pacific	Seoul	121 ms	15642 kB/s
-146.56.101.141	443	TRUE	ICN	Asia Pacific	Seoul	117 ms	14548 kB/s
-64.110.71.4	443	TRUE	SIN	Asia Pacific	Singapore	261 ms	12273 kB/s
-129.154.56.86	443	TRUE	SIN	Asia Pacific	Singapore	202 ms	11322 kB/s
-129.154.57.182	443	TRUE	SIN	Asia Pacific	Singapore	177 ms	11023 kB/s
-141.147.95.86	443	TRUE	FRA	Europe	Frankfurt	309 ms	8473 kB/s
-129.159.47.255	443	TRUE	SJC	North America	San Jose	233 ms	8225 kB/s
-141.147.50.203	443	TRUE	FRA	Europe	Frankfurt	260 ms	8016 kB/s
-144.24.181.123	443	TRUE	FRA	Europe	Frankfurt	268 ms	7944 kB/s
-158.101.215.223	443	TRUE	FRA	Europe	Frankfurt	244 ms	7829 kB/s
-130.162.236.215	443	TRUE	FRA	Europe	Frankfurt	342 ms	7803 kB/s
-141.147.70.113	443	TRUE	FRA	Europe	Frankfurt	328 ms	7752 kB/s
-141.147.82.9	443	TRUE	FRA	Europe	Frankfurt	276 ms	7654 kB/s
-130.61.9.70	443	TRUE	SIN	Asia Pacific	Singapore	221 ms	7566 kB/s
-141.144.202.139	443	TRUE	FRA	Europe	Frankfurt	249 ms	7506 kB/s
-130.162.33.100	443	TRUE	FRA	Europe	Frankfurt	237 ms	7482 kB/s
-138.2.166.33	443	TRUE	FRA	Europe	Frankfurt	245 ms	7419 kB/s
-141.144.232.166	443	TRUE	FRA	Europe	Frankfurt	313 ms	7378 kB/s
-138.3.241.28	443	TRUE	FRA	Europe	Frankfurt	265 ms	7301 kB/s
-140.238.120.78	443	TRUE	FRA	Europe	Frankfurt	339 ms	7299 kB/s
-138.3.244.111	443	TRUE	FRA	Europe	Frankfurt	330 ms	7235 kB/s
-141.147.109.159	443	TRUE	FRA	Europe	Frankfurt	217 ms	7197 kB/s
-144.21.36.229	443	TRUE	FRA	Europe	Frankfurt	335 ms	7193 kB/s
-131.186.61.192	443	TRUE	SIN	Asia Pacific	Singapore	279 ms	7166 kB/s
-141.148.243.111	443	TRUE	FRA	Europe	Frankfurt	346 ms	7159 kB/s
-150.230.117.236	443	TRUE	FRA	Europe	Frankfurt	347 ms	7151 kB/s
-141.147.89.115	443	TRUE	FRA	Europe	Frankfurt	257 ms	7143 kB/s
-144.21.53.107	443	TRUE	FRA	Europe	Frankfurt	280 ms	7066 kB/s
-138.3.240.244	443	TRUE	FRA	Europe	Frankfurt	245 ms	7061 kB/s
-130.162.178.156	443	TRUE	FRA	Europe	Frankfurt	233 ms	7039 kB/s
-143.47.177.241	443	TRUE	FRA	Europe	Frankfurt	245 ms	6924 kB/s
-141.147.99.212	443	TRUE	FRA	Europe	Frankfurt	335 ms	6908 kB/s
-138.3.208.75	443	TRUE	SIN	Asia Pacific	Singapore	265 ms	6711 kB/s
-143.47.226.121	443	TRUE	FRA	Europe	Frankfurt	228 ms	6312 kB/s
-130.162.165.193	443	TRUE	FRA	Europe	Frankfurt	267 ms	5491 kB/s
-193.122.58.176	443	TRUE	FRA	Europe	Frankfurt	336 ms	5453 kB/s
-130.162.176.167	443	TRUE	FRA	Europe	Frankfurt	330 ms	5450 kB/s
-138.3.240.128	443	TRUE	FRA	Europe	Frankfurt	267 ms	5394 kB/s
-143.47.241.2	443	TRUE	FRA	Europe	Frankfurt	322 ms	5360 kB/s
-150.230.151.112	443	TRUE	FRA	Europe	Frankfurt	244 ms	5341 kB/s
-129.159.202.179	443	TRUE	FRA	Europe	Frankfurt	267 ms	5340 kB/s
-129.159.255.136	443	TRUE	SIN	Asia Pacific	Singapore	245 ms	5269 kB/s
-143.47.241.167	443	TRUE	FRA	Europe	Frankfurt	267 ms	5267 kB/s
-141.147.85.12	443	TRUE	FRA	Europe	Frankfurt	261 ms	5222 kB/s
-143.47.230.248	443	TRUE	FRA	Europe	Frankfurt	264 ms	5174 kB/s
-130.162.251.15	443	TRUE	FRA	Europe	Frankfurt	237 ms	5169 kB/s
-141.147.3.105	443	TRUE	FRA	Europe	Frankfurt	279 ms	5161 kB/s
-150.230.121.161	443	TRUE	FRA	Europe	Frankfurt	258 ms	5152 kB/s
-144.24.186.87	443	TRUE	FRA	Europe	Frankfurt	343 ms	5046 kB/s
-129.151.254.48	443	TRUE	MRS	Europe	Marseille	273 ms	3798 kB/s
-141.148.227.19	443	TRUE	AMS	Europe	Amsterdam	223 ms	1571 kB/s
-168.138.51.142	443	TRUE	KIX	Asia Pacific	Osaka	224 ms	437 kB/s
-47.253.105.131	443	TRUE	IAD	North America	Ashburn	282 ms	2 kB/s
-140.238.201.118	443	TRUE	SYD	Oceania	Sydney	213 ms	0 kB/s
-193.123.62.153	443	TRUE	AMS	Europe	Amsterdam	245 ms	0 kB/s
-129.146.243.241	443	TRUE	LAX	North America	Los Angeles	228 ms	0 kB/s
-138.2.75.91	443	TRUE	SIN	Asia Pacific	Singapore	271 ms	0 kB/s
-152.69.219.32	443	TRUE	SIN	Asia Pacific	Singapore	256 ms	0 kB/s
-140.238.88.47	443	TRUE	LHR	Europe	London	313 ms	0 kB/s
-193.123.37.113	443	TRUE	FRA	Europe	Frankfurt	244 ms	0 kB/s
-192.9.157.76	443	TRUE	SJC	North America	San Jose	228 ms	0 kB/s
-144.24.83.39	443	TRUE	ICN	Asia Pacific	Seoul	152 ms	0 kB/s
-168.138.185.234	443	TRUE	SIN	Asia Pacific	Singapore	254 ms	0 kB/s
-132.145.82.209	443	TRUE	ICN	Asia Pacific	Seoul	68 ms	0 kB/s
+IP 地址	已发送	已接收	丢包率	平均延迟	下载速度 (MB/s)
+172.66.45.15	4	4	0	183.65	28.35
+104.21.25.242	4	4	0	180.37	26.75
+104.18.181.247	4	4	0	162.15	6.82
+104.21.224.119	4	4	0	176.73	6.42
+104.21.228.11	4	4	0	183.88	5.52
+104.21.20.101	4	4	0	180.82	23.2
+104.21.29.58	4	4	0	182.84	22.66
+104.21.238.190	4	4	0	171.86	21.03
+172.67.72.59	4	4	0	180.15	7.45
+104.21.233.204	4	4	0	182.86	6.97
+104.19.169.241	4	4	0	203.71	34.31
+104.22.62.228	4	4	0	195.78	23.68
+104.22.49.172	4	4	0	199.99	23.11
+104.19.162.5	4	4	0	202.9	20.04
+198.62.62.133	4	4	0	196.06	16.84
+172.64.83.166	4	4	0	221.83	25.65
+162.159.247.91	4	4	0	224.44	17.79
+172.67.66.185	4	4	0	216.44	12.4
+104.20.5.248	4	4	0	217.46	9.39
+193.9.49.47	4	4	0	212.79	6.55
